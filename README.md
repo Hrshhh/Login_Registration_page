@@ -1,7 +1,8 @@
 LOGIN REGISTRATION PAGE
 
 Built the front-end using REACT and REDUX and styled it using BOOTSTRAP.
-Creating a REST API using EXPRESSJS and MONGODB for the back-end, to handle the routes and database interactions.
+
+Created REST API using EXPRESSJS and MONGODB for the back-end, to handle the routes and database interactions.
 
 Implementing security measures such as encrypting user passwords using BCRYPT and generating JSON WEB TOKENS (JWT) for authentication and authorization. Setting up server-side validation and handling errors, showing problems on UI with the help of TOASTIFY package.
 
