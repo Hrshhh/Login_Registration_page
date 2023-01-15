@@ -1,0 +1,8 @@
+.pointer{
+    cursor: pointer;
+}
+
+.nav-link:hover{
+    /* font-size: larger; */
+    background-color: rgb(193, 221, 236);
+}
